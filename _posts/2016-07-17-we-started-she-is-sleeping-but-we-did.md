@@ -1,5 +1,5 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
@@ -18,16 +18,18 @@ description: >-
   of his assumptions. His works can be found at different Italian and foreign
   collectors’ and his quotations are constantly increasing. He lives and works
   in Gardone V.T. (Brescia, Italy).
-datePublished: '2016-07-17T23:00:55.683Z'
-dateModified: '2016-07-17T22:47:17.714Z'
-title: ''
-author: []
+datePublished: '2016-07-17T23:09:31.864Z'
+dateModified: '2016-07-17T23:09:23.648Z'
+title: Biography
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-07-17-we-started-she-is-sleeping-but-we-did.md
 authors: []
 publisher: null
-starred: true
+starred: false
 url: we-started-she-is-sleeping-but-we-did/index.html
-_type: WebPage
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/be2d6c65-6454-4c57-989e-de97aeabdc80.jpg)
