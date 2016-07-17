@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Itartusa]]></title>
-        <description><![CDATA[Itartusa]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Itartusa Inc. - Italian Art in USA]]></title>
+        <description><![CDATA[Itartusa Inc. - Italian Art in USA]]></description>
+        <link>https://thegrid.ai/itartusa/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jul 2016 03:23:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 17 Jul 2016 04:05:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/itartusa/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Segni del Tempo]]></title>
+            <description><![CDATA[<article><h1>Segni del Tempo</h1><p>Dolci Presenze nel Tempo</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3ce5ed9783604d5895c891d4db763a82/croprotate.jpg?cropheight=1125&cropwidth=564&degrees=0&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F46477d323d7e623c7e247b94e6eef80500c07b8c.jpg&x=0&y=0"></article>]]></description>
+            <link>https://thegrid.ai/itartusa/segni-del-tempo/index.html</link>
+            <guid isPermaLink="false">6bb1db2d-c2ec-44ec-850e-6de1c85c2a65</guid>
+            <pubDate>Sun, 17 Jul 2016 04:05:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>We started, she is sleeping, but we did.</p>]]></description>
-            <link>undefinedwe-started-she-is-sleeping-but-we-did/index.html</link>
+            <link>https://thegrid.ai/itartusa/we-started-she-is-sleeping-but-we-did/index.html</link>
             <guid isPermaLink="false">39bc7b54-cf99-42a2-8085-0cc6dfd624a3</guid>
             <pubDate>Sun, 17 Jul 2016 03:23:43 GMT</pubDate>
         </item>
