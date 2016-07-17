@@ -1,7 +1,7 @@
 name: Itartusa
 favicon: null
-layout_spectrum: 0.8194618786219507
-typography_spectrum: 0.004784218734130263
+layout_spectrum: 0.75442
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.3367481885943562
-  lightness: 0.5355978624429554
-  saturation: 0.6630839430727065
-  rhythmicContrast: 0.311682615429163
+    - '#ebeae6'
+    - '#c0bcbd'
+    - '#878f92'
+    - '#585e5c'
+    - '#881e11'
+  brandStrength: 0
+  lightness: 0.6875
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
