@@ -1,7 +1,7 @@
 name: Itartusa
 favicon: null
 layout_spectrum: 0
-typography_spectrum: 1
+typography_spectrum: 0.07252
 title: Itartusa Inc. - Italian Art in USA
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#878f92'
     - '#585e5c'
     - '#881e11'
-  brandStrength: 1
+  brandStrength: 0
   lightness: 0
-  saturation: 0
-  rhythmicContrast: 1
+  saturation: 1
+  rhythmicContrast: 0.5
 purpose: []
