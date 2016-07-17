@@ -18,8 +18,8 @@ description: >-
   of his assumptions. His works can be found at different Italian and foreign
   collectors’ and his quotations are constantly increasing. He lives and works
   in Gardone V.T. (Brescia, Italy).
-datePublished: '2016-07-17T04:22:54.463Z'
-dateModified: '2016-07-17T04:22:50.408Z'
+datePublished: '2016-07-17T23:00:55.683Z'
+dateModified: '2016-07-17T22:47:17.714Z'
 title: ''
 author: []
 sourcePath: _posts/2016-07-17-we-started-she-is-sleeping-but-we-did.md
